@@ -23,6 +23,6 @@ public class SampleTests
     public void ReturnsHelloWorld()
     {
         var data = Sample.Data;
-        Assert.Equal("Hello World!abc", data);
+        Assert.Equal("Hello World!efg", data);
     }
 }
